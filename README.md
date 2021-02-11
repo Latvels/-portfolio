@@ -1,6 +1,3 @@
-# -portfolio
+# rsclone
 
-All my works related to programming are collected here. 
-The branches are named after the apps. 
-The gh-page branch contains a display of all applications.
-You can launch the application using the link below.
+This game was made as a team. You can read more about creation here: https://lexsava.medium.com/rss-rpg-game-92fa060f92c5
