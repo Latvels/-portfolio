@@ -6,3 +6,4 @@ RPG Game - https://latvels.github.io/-portfolio/game/dist/<br>
 Page layout according to a given layout (Figma) without adaptive - https://latvels.github.io/-portfolio/webdev/<br>
 Virtual keyboard - https://latvels.github.io/-portfolio/virtual-keyboard/<br>
 Momentum. Analog app from Google - https://latvels.github.io/-portfolio/momentum/<br>
+Tag game (gem puzzle) - https://latvels.github.io/-portfolio/puzzle-game<br>
